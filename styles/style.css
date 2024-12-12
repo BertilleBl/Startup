@@ -1,0 +1,47 @@
+@import url("./components/container.css");
+@import url("./components/avatar.css");
+@import url("./components/button.css");
+@import url("./components/banner.css");
+@import url("./components/card.css");
+
+
+body {
+	font-family: 𝐄𝐱𝐞𝐦𝐩𝐥𝐞 𝐝𝐞 𝐭𝐞𝐱𝐭𝐞, serif;
+	font-size: 18px;
+	color: dark;
+	margin: 0px;
+	text-align: center;
+}
+
+h1, h2, h3 {
+	font-family: 𝙴𝚡𝚎𝚖𝚙𝚕𝚎 𝚍𝚎 𝚝𝚎𝚡𝚝𝚎, serif;
+	font-weight:bold;
+	color: darkgreen;
+	text-align: center;
+}
+
+a { 
+  text-decoration: none; 
+ }
+
+
+.inline-image {
+  display: inline-block;
+  margin: 5px; 
+  width: 150px; 
+  height: auto;
+  border-radius: 10px;
+}
+
+.project-container {
+	text-align: justify; 
+    max-width: 600px; 
+    padding: 20px;
+    background-color: white;
+}
+
+.project-description {
+  font-size: 1em;
+  color: #555; 
+  line-height: 1.6; 
+}
